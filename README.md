@@ -1,2 +1,2 @@
-# multitask
-A simple python multitask tool
+# multiwork
+A simple python multiwork tool
