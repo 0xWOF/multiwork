@@ -1,2 +1,2 @@
 # multiwork
-A simple python multiwork tool
+A simple python multiprocessing tool
